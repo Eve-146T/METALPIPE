@@ -7,7 +7,7 @@ Metal pipe.
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/METAL.PIPE/)
 
-🔧🔧🔧🔧: [metal pipe🔧 🔧 🔧 🔧 🔧 ](https://github.com/EVE-146T/STRAWBERRY/releases/latest).
+🔧🔧🔧🔧: [metal pipe](https://github.com/EVE-146T/METALPIPE/releases/latest).
 
 ## Features 🔧 
 - Splash Screen 
